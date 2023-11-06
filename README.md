@@ -1,0 +1,2 @@
+# graduation_project
+基于STM32的全自动节水灌溉系统
